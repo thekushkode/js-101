@@ -1,3 +1,6 @@
+// const tipAmount = require("./tipcalc1").tipAmount
+
+
 function totalAmount(billAmount, levOfService) {
     if (levOfService === "good") {
         let goodTip = .2;

@@ -20,3 +20,10 @@ tipAmount(100, "good");
 tipAmount(100, "fair");
 tipAmount(100, "poor");
 tipAmount();
+
+// exporting a function. see tipcalc2.js for import code
+// module.exports = {
+//     tipAmount: tipAmount
+// }
+
+// or module.exports = tipAmount
